@@ -1,0 +1,91 @@
+  /* Общие настройки */
+  * {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    /* border: 1px solid #f00; */
+    /* text-shadow: 6px 1px 5px #969696; */
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+   
+  }
+  
+
+.container-main {
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: #252a30;
+}
+
+.logo-car {
+    background-image: url(../pic/logo.png);
+    background-size: 165px 140px;
+    height: 140px;
+    width: 165px;
+}
+
+
+
+.nav-top {
+        width: 100%;
+        min-height: 50px;
+        background-color: black;
+        color: #F0F0F0;
+        padding-top: 10px;    }
+  
+.nav-list {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: #F0F0F0;
+}
+
+.phone {
+        color: #F0F0F0;
+        font-size: 35px;
+}
+
+
+
+.car {
+    background-image: url(../pic/redcar.png);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size:  1380px 500px;
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    
+
+}
+
+.info-car-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    color: blanchedalmond;
+    width: 280px;
+    height: 425px;
+    text-align: center;
+    margin-right: 100px;
+}
