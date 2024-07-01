@@ -25,12 +25,15 @@
    
   }
   
+body {
+    background-color: black;
+}
 
 .container-main {
-    width: 100%;
+    width: 1200px;
     overflow: hidden;
     height: auto;
-    padding: 5px;
+    /* padding: 5px; */
     margin: 0 auto;
     background-color: #252a30;
 }
@@ -47,7 +50,7 @@
 .nav-top {
         width: 100%;
         min-height: 50px;
-        background-color: black;
+        background-color: #252a30;
         color: #F0F0F0;
         padding-top: 10px;    }
   
@@ -69,8 +72,8 @@
     background-image: url(../pic/redcar.png);
     background-repeat: no-repeat;
     background-color: black;
-    background-size:  1380px 500px;
-    width: 100%;
+    background-size:  1200px 500px;
+    width: 1200px;
     min-height: 500px;
     display: flex;
     justify-content: flex-end;
