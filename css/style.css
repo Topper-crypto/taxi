@@ -49,14 +49,13 @@ h2 {
     width: 166px;
 }
 
-
-
 .nav-top {
         width: 100%;
         min-height: 50px;
         background-color: #252a30;
         color: #F0F0F0;
-        padding-top: 10px;    }
+        padding-top: 10px;
+}
   
 .nav-list {
         display: flex;
@@ -65,12 +64,15 @@ h2 {
         color: #F0F0F0;
 }
 
-.phone {
-        color: #F0F0F0;
-        font-size: 35px;
+.nav-top {
+  font-size: 28px;
+  font-weight: bold;
 }
 
-
+.phone {
+        color: #fdc40f;
+        font-size: 42px;
+}
 
 .car {
     background-image: url(../pic/redcar.png);
@@ -81,8 +83,6 @@ h2 {
     min-height: 500px;
     display: flex;
     justify-content: flex-end;
-    
-
 }
 
 .info-car-block {
@@ -98,11 +98,49 @@ h2 {
     margin-bottom: 15px;
 }
 
+.cer-info-1 {
+  font-size: 21px;
+  color: #F0F0F0;
+}
+
+.cer-info-2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-transform: uppercase;
+}
+
+.cer {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fdc40f;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: bold;
+  color: #F0F0F0;
+  background-color: #eb2428;
+  padding: 10px;
+  border-radius: 3px;
+}
 
 .work-type {
   width: 100%;
   min-height: 500px;
  
+}
+
+.work {
+  font-size: 50px;
+  color: #F0F0F0;
+  text-transform: uppercase;
+}
+
+.red-text {
+  font-size: 50px;
+  color: #eb2428;
+  text-transform: uppercase;
 }
 
 .wrap-scale {
@@ -143,6 +181,19 @@ h2 {
   width: 510px;
 }
 
+.info-item-uppercase {
+  font-size: 39px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-transform: uppercase;
+}
+
+.info-item {
+  font-size: 39px;
+  font-weight: bold;
+  color: #F0F0F0;
+}
+
 .social {
   background-image: url(../pic/social/social2.png);
   background-repeat: no-repeat;
@@ -172,6 +223,26 @@ h2 {
   background: linear-gradient(90deg, rgba(0,0,0,0.4976584383753502) 0%, rgba(0,0,0,0.7665660014005602) 39%, rgba(0,0,0,1) 100%);
 }
 
+.conditions-item-red {
+  font-size: 60px;
+  font-weight: bold;
+  color: #eb2428;
+  text-transform: uppercase;
+}
+
+.conditions-item {
+  font-size: 27px;
+  font-weight: bold;
+  color: #F0F0F0;
+}
+
+.button-condition {
+  font-size: 23px;
+  color: #252a30;
+  background-color: #fdc40f;
+  padding: 10px;
+  border-radius: 3px;
+}
 
 .girl-conditions {
   width: 100%;
@@ -190,10 +261,42 @@ h2 {
   height: 500px;
 }
 
+.girl-header {
+  font-size: 38px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-transform: uppercase;
+}
+
+.girl-header-red {
+  font-size: 38px;
+  font-weight: bold;
+  color: #eb2428;
+  text-transform: uppercase;
+}
+
+.list-item {
+  font-size: 23px;
+  font-weight: bold;
+  color: #F0F0F0;
+}
+
 .exp-1 {
   text-align: center;
   width: 100%;
   min-height: 200px;
+}
+
+.exp-header {
+  font-size: 50px;
+  font-weight: bold;
+  color: #F0F0F0;
+}
+
+.exp-header-orange {
+  font-size: 50px;
+  font-weight: bold;
+  color: #fdc40f;
 }
 
 .exp-chess-2 {
@@ -209,18 +312,35 @@ h2 {
   text-align: center;
 }
 
-.icons-1 {
-  background-image: url(../pic/profit/profit1.png);
-  background-repeat: no-repeat;
-  background-size: 100px 100px;
-  background-position: 13px 0px;
+.header-icon {
+  font-size: 50px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-transform: uppercase;
+}
+
+.cond-text {
+  font-size: 25px;
+  font-weight: bold;
+  color: #fdc40f;
+}
+
+.icons {
+
   text-align: center;
-  width: 130px;
-  height: 255px;
+  width: 230px;
+  height: 355px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   margin: 2px;
+}
+
+.icon-pig {
+  background-image: url(../pic/profit/profit1.png);
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-position: 13px 0px;
 }
 
 
@@ -232,3 +352,6 @@ h2 {
   justify-content: center;
 }
 
+.slider-header {
+
+}
