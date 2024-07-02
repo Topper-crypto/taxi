@@ -584,5 +584,36 @@ h2 {
 
 .address-block {
   width: 100%;
-  
+  min-height: 800px;
+  background-image: url(../pic/back.png);
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
+.footer-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-element-1 {
+  width: 275px;
+  height: 600px;
+}
+
+.footer-element-2 {
+  width: 350px;
+  height: 600px;
+  outline: 2px solid wheat;
+ 
+}
+
+.footer-element-3 {
+  width: 275px;
+  height: 600px;
 }
