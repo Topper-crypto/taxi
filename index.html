@@ -8,13 +8,18 @@
     <link rel="stylesheet" href="./css/aos.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    
+    <link rel="stylesheet" href="./css/cdn.jsdelivr.net_npm_swiper@10_swiper-bundle.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     <!-- <link rel="stylesheet" href="/css/style.css"> -->
     <!-- <link rel="stylesheet" media="screen" href="./css/style.css?v2.0" /> -->
     <!-- <link rel="stylesheet" media="screen" href="/css/style.css?v2.0"> -->
+    <script defer src="./js/aos.js"></script>
+    <!-- <script src="/js/main.js"></script> -->
+    <!-- <script defer src="./js/main-tour.js"></script> -->
+    <script defer src="./js/cdn.jsdelivr.net_npm_swiper@10_swiper-bundle.min.js"></script>
+    <script defer src="./js/js-swipper.js"></script>
 </head>
 <body>
 <div class="container-main">
@@ -112,21 +117,21 @@
                 </div>
                 <div class="wrap-cond">
                     <div class="icons icon-pig"><p class="pig cond-text">нет залога</p><p class="pig cond-text">нет аренды</p><p class="pig cond-text">нет плана</p></div>
-                    <div class="icons"><p class="can cond-text">заправка</p><p class="can cond-text">перед</p><p class="can cond-text">сменой</p></div>
-                    <div class="icons"><p class="lic cond-text">помощь</p><p class="lic cond-text">в получении</p>
+                    <div class="icons icon-can"><p class="can cond-text">заправка</p><p class="can cond-text">перед</p><p class="can cond-text">сменой</p></div>
+                    <div class="icons icon-lic"><p class="lic cond-text">помощь</p><p class="lic cond-text">в получении</p>
                     <p class="lic cond-text">ID водителя</p></div>
-                    <div class="icons"><p class="mans cond-text">инструктаж</p>
+                    <div class="icons icon-mans"><p class="mans cond-text">инструктаж</p>
                     <p class="mans cond-text">для начинающих</p>
                     <p class="mans cond-text">в бизнесе</p></div>
-                    <div class="icons"><p class="man cond-text">профильное</p>
+                    <div class="icons icon-man"><p class="man cond-text">профильное</p>
                     <p class="man cond-text">обучение</p>
                     <p class="man cond-text">работе в такси</p></div>
-                    <div class="icons"><p class="car-ico cond-text">лицензия</p>
+                    <div class="icons icon-car"><p class="car-ico cond-text">лицензия</p>
                     <p class="car-ico cond-text">на такси</p>
                     <p class="car-ico cond-text">уже оформлена</p></div>
-                    <div class="icons"><p class="gbox cond-text">все</p>
+                    <div class="icons icon-gbox"><p class="gbox cond-text">все</p>
                     <p class="gbox cond-text">машиы</p><p class="gbox cond-text">с акпп</p></div>
-                    <div class="icons"><p class="shield cond-text">автомобиль</p>
+                    <div class="icons icon-shield"><p class="shield cond-text">автомобиль</p>
                     <p class="shield cond-text">застрахован</p>
                     <p class="shield cond-text">осаго/каско</p></div>
                 </div>
@@ -134,10 +139,25 @@
     </section>
 
     <section class="section-5">
+        <div class="slider-header"> <h5 class="slider-h">выбери модель из нашего автопарка!</h2></div>
                 <div class="slider">
-                    <h2 class="slider-header">наш автопарк!</h2>
+                   
                     <div class="slider-wrapper">
-
+                        <div class="swiper">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper">
+                              <!-- Slides -->
+                              
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-1.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-2.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-3.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-4.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-5.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-6.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-7.jpg" alt=""></div>
+                              <div class="swiper-slide"><img class="fit"  src="./img/slide/slide-8.jpg" alt=""></div>
+                                        
+                            </div>
                     </div>
                 </div>
     </section>
