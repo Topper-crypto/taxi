@@ -1,0 +1,8345 @@
+@media(max-width: 2778px)
+{
+  .header-top {
+    width: 100%;
+  }
+
+  .cards-wrap-requisites {
+    width: 1520px;
+    margin: 0 auto;
+}
+}
+
+@media(max-width: 2550px)
+{
+  /* 2560x737 */
+  .header-top {
+    width: 100%;
+  }
+
+  .hero-container {
+    height: 737px;
+    padding: 110px 0 0 335px;
+  }
+
+  .cards-wrap-requisites {
+    width: 1520px;
+    margin: 0 auto;
+}
+}
+
+@media(max-width: 1600px)
+{
+  /* 
+  1284x370
+  1024x
+  */
+.header-top {
+  width: 100%;
+}
+
+.hero-container {
+  height: 461px;
+  padding: 35px 0 0 335px;
+}
+
+.cards-wrap-requisites {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.cards-wrap-all {
+  width: 1550px;
+}
+
+.cards-wrap-seeds {
+  width: 980px;
+}
+
+.cards-right-seeds {
+  width: 980px;
+}
+
+}
+/* 1366 */
+
+@media(max-width: 1366px)
+{
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+
+  .addres {
+    font-size: 22px;
+  }
+  
+  .cards-wrap-production {
+    border-top: 2px solid black;
+    margin: 0 auto;
+    width: 1200px;
+  }
+
+  .cards-wrap-production1 {
+    margin: 0 auto;
+    width: 1200px;
+  }
+
+  .list-production {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    height: 370px;
+    padding: 65px 0 0 430px;
+  }
+  
+ 
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 940px;
+    padding: 0px;
+  }
+  
+  .cards-wrap-all {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 804px;
+  }
+  
+  .cards-wrap {
+    width: 1020px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .cards-wrap-seeds {
+    padding-top: 25px;
+    width: 1175px;
+  }
+  
+  .right {
+    width: 1175px;
+  }
+  
+  .header-cards-seeds {  
+    width: 100%;
+  }
+  
+  .cards-right-seeds {
+    width: 1160px;
+    
+  }
+  
+.cards-wrap-all-seeds {
+    width: 1180px;  
+  }
+
+  .cards-text1 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  
+  .seeds-type {
+    font-size: 25px;
+    font-weight: 600;  
+  }
+  
+  .cards-text2 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  .stars {
+    width: 20px;
+  }
+  
+  .cards-text3 {
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  .cards-text4 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+.inner-corn-1 {
+    background-size: 200px 160px;
+  }
+
+  .seeds-svg-corn {
+    width: 45px;
+  }
+  .seeds-svg-cow {
+    width: 45px;
+  }
+  
+  .cards-corn-wh-1 {
+    width: 210px;
+  }
+  
+  .cards-corn-wh-2 { 
+    width: 410px;
+  }
+  
+  .cards-corn-wh-3 {
+    width: 370px;
+  }
+  
+  .cards-corn-wh-4 {
+    width: 110px;
+  }
+  
+  .cards-corn-wh-5 {
+    width: 80px;
+  }
+  
+  .cards-corn-wh-6 {
+    width: 620px;
+  }
+
+  .inner-sunflower-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-wh-2 { 
+    width: 345px;
+  }
+  
+  .cards-wh-3 {
+    width: 290px;
+  }
+  
+  .cards-wh-4 {
+    width: 100px;
+  }
+  
+  .cards-wh-5 {
+    width: 225px;
+  }
+  
+  .cards-wh-6 {
+    width: 565px;
+  }
+
+  .inner-rapeseed-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-rapeseed-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-rapeseed-wh-2 { 
+    width: 300px;
+  }
+  
+  .cards-rapeseed-wh-3 {
+    width: 300px;
+  }
+  
+  .cards-rapeseed-wh-4 {
+    width: 110px;
+  }
+  
+  .cards-rapeseed-wh-5 {
+    width: 250px;
+  }
+  
+  .cards-rapeseed-wh-6 {
+    width: 520px;
+  }
+
+  .inner-soy-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-soy-wh-1 {
+    width: 210px;
+  }
+  
+  .cards-soy-wh-2 {
+    width: 280px;
+  }
+  
+  .cards-soy-wh-3 {
+    width: 290px;
+  }
+  
+  .cards-soy-wh-4 {
+    width: 200px;
+  }
+  
+  .cards-soy-wh-5 {
+    width: 200px;
+  }
+  
+  .cards-soy-wh-6 {
+    width: 490px;
+  }
+
+  .inner-sorghum-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-sorghum-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-sorghum-wh-2 {
+    width: 370px;
+  }
+  
+  .cards-sorghum-wh-3 {
+    width: 380px;
+  }
+  
+  .cards-sorghum-wh-4 {
+    width: 220px;
+  }
+  
+  .cards-sorghum-wh-5 {
+    width: 590px;
+  }
+
+  .inner-alfalfa-1 {
+    background-size: 200px 160px;
+  }
+    
+  .cards-alfalfa-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-alfalfa-wh-2 {
+    width: 400px;
+  }
+  
+  .cards-alfalfa-wh-3 {
+    width: 320px;
+  }
+  
+  .cards-alfalfa-wh-4 {
+    width: 250px;
+  }
+  
+  .cards-alfalfa-wh-5 {
+    width: 620px;
+  }
+
+  }
+
+
+
+/* 1284 */
+
+@media(max-width: 1284px)
+{
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+
+  .addres {
+    font-size: 22px;
+  }
+  
+  .cards-wrap-production {
+    border-top: 2px solid black;
+    margin: 0 auto;
+    width: 1200px;
+  }
+
+  .cards-wrap-production1 {
+    margin: 0 auto;
+    width: 1200px;
+  }
+
+  .list-production {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    height: 370px;
+    padding: 65px 0 0 430px;
+  }
+  
+ 
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 940px;
+    padding: 0px;
+  }
+  
+  .cards-wrap-all {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 804px;
+  }
+  
+  .cards-wrap {
+    width: 1020px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .cards-wrap-seeds {
+    padding-top: 25px;
+    width: 1175px;
+  }
+  
+  .right {
+    width: 1175px;
+  }
+  
+  .header-cards-seeds {  
+    width: 100%;
+  }
+  
+  .cards-right-seeds {
+    width: 1160px;
+    
+  }
+  
+.cards-wrap-all-seeds {
+    width: 1180px;  
+  }
+
+  .cards-text1 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  
+  .seeds-type {
+    font-size: 25px;
+    font-weight: 600;  
+  }
+  
+  .cards-text2 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  .stars {
+    width: 20px;
+  }
+  
+  .cards-text3 {
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  .cards-text4 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+.inner-corn-1 {
+    background-size: 200px 160px;
+  }
+
+  .seeds-svg-corn {
+    width: 45px;
+  }
+  .seeds-svg-cow {
+    width: 45px;
+  }
+  
+  .cards-corn-wh-1 {
+    width: 210px;
+  }
+  
+  .cards-corn-wh-2 { 
+    width: 410px;
+  }
+  
+  .cards-corn-wh-3 {
+    width: 370px;
+  }
+  
+  .cards-corn-wh-4 {
+    width: 110px;
+  }
+  
+  .cards-corn-wh-5 {
+    width: 80px;
+  }
+  
+  .cards-corn-wh-6 {
+    width: 620px;
+  }
+
+  .inner-sunflower-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-wh-2 { 
+    width: 345px;
+  }
+  
+  .cards-wh-3 {
+    width: 290px;
+  }
+  
+  .cards-wh-4 {
+    width: 100px;
+  }
+  
+  .cards-wh-5 {
+    width: 225px;
+  }
+  
+  .cards-wh-6 {
+    width: 565px;
+  }
+
+  .inner-rapeseed-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-rapeseed-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-rapeseed-wh-2 { 
+    width: 300px;
+  }
+  
+  .cards-rapeseed-wh-3 {
+    width: 300px;
+  }
+  
+  .cards-rapeseed-wh-4 {
+    width: 110px;
+  }
+  
+  .cards-rapeseed-wh-5 {
+    width: 250px;
+  }
+  
+  .cards-rapeseed-wh-6 {
+    width: 520px;
+  }
+
+  .inner-soy-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-soy-wh-1 {
+    width: 210px;
+  }
+  
+  .cards-soy-wh-2 {
+    width: 280px;
+  }
+  
+  .cards-soy-wh-3 {
+    width: 290px;
+  }
+  
+  .cards-soy-wh-4 {
+    width: 200px;
+  }
+  
+  .cards-soy-wh-5 {
+    width: 200px;
+  }
+  
+  .cards-soy-wh-6 {
+    width: 490px;
+  }
+
+  .inner-sorghum-1 {
+    background-size: 200px 160px;
+  }
+  
+  .cards-sorghum-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-sorghum-wh-2 {
+    width: 370px;
+  }
+  
+  .cards-sorghum-wh-3 {
+    width: 380px;
+  }
+  
+  .cards-sorghum-wh-4 {
+    width: 220px;
+  }
+  
+  .cards-sorghum-wh-5 {
+    width: 590px;
+  }
+
+  .inner-alfalfa-1 {
+    background-size: 200px 160px;
+  }
+    
+  .cards-alfalfa-wh-1 {
+    width: 220px;
+  }
+  
+  .cards-alfalfa-wh-2 {
+    width: 400px;
+  }
+  
+  .cards-alfalfa-wh-3 {
+    width: 320px;
+  }
+  
+  .cards-alfalfa-wh-4 {
+    width: 250px;
+  }
+  
+  .cards-alfalfa-wh-5 {
+    width: 620px;
+  }
+
+  }
+
+
+/* 1280 */
+
+@media(max-width: 1242px)
+{
+
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    width: 100%;
+    margin-bottom: 23px;
+    height: 295px;
+    padding: 45px 0 0 345px;
+  }
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    width: 864px;
+    padding: 0;
+  }
+  
+  .cards-wrap-all {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 804px; 
+  }
+  
+  .cards-wrap {
+    width: 1020px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  /* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 1000px;
+}
+
+.right {
+  width: 1000px;
+}
+
+.header-cards-seeds {  
+  width: 1000px;
+}
+
+.cards-right-seeds {
+  width: 1000px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 23px;
+  width: 1000px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.seeds-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cards-wrap-seeds-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 485px;
+  margin: 0 auto;
+}
+
+.cards-item-seeds {
+  width: 100%;
+  text-align: center;
+}
+
+.header-cards-seeds2 {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.cards-wrap-all-seeds {
+  width: 1000px;  
+}
+
+.pl {
+  margin-right: 10px;
+}
+
+.cards-centr {
+  flex-direction: row;
+}
+
+.inner-corn-1 {
+  background-size: 220px 180px;
+}
+
+.cards-corn-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-corn-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-text4 {
+  font-size: 20px;
+}
+
+.seeds-svg-corn {
+  width: 45px;
+}
+.seeds-svg-cow {
+  width: 45px;
+}
+
+.cards-corn-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sunflower-1 {
+  background-size: 220px 180px;
+}
+
+.cards-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-rapeseed-1 {
+  background-size: 220px 180px;
+}
+
+.cards-rapeseed-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-rapeseed-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-soy-1 {
+  background-size: 220px 180px;
+}
+
+.cards-soy-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-soy-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sorghum-1 {
+  background-size: 220px 180px;
+}
+
+.cards-sorghum-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-sorghum-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-alfalfa-1 {
+  background-size: 220px 180px;
+}
+
+.cards-alfalfa-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-alfalfa-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+
+.cards-wrap-requisites {
+  width: 980px;
+}
+
+.requisites-text {
+  font-size: 36px;
+  padding-right: 14px;
+}
+
+.requisites-text2 {
+  font-size: 30px;
+}
+
+}
+
+
+
+
+
+  /* 1242 */
+
+  @media(max-width: 1242px)
+  {
+  
+    .seeds-list-left {
+      list-style: none;
+    }
+  
+    .header-top {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 270px;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 15px solid green;
+      border-bottom: 15px solid orange;
+      }
+    
+    .addres {
+      font-size: 22px;
+    }
+    
+    .footer-container {
+      background: linear-gradient(0deg, #000000d6, #242427ac);
+      height: 250px;
+      width: 100%;
+      padding-top: 15px; 
+      font-size: 25px;
+      }
+    
+    .nav-list {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+    }
+    
+    .nav-list--item {
+      padding:0 0 15px 0;
+      color: yellowgreen;
+    }
+    
+    .hero-container {
+      width: 100%;
+      margin-bottom: 23px;
+      height: 295px;
+      padding: 45px 0 0 345px;
+    }
+  
+    
+    .hero-text {
+      font-size: 25px;
+      font-style: italic;
+      font-weight: 600;
+      color: #2A4903;
+    }
+    
+    .container-text {
+      width: 864px;
+      padding: 0;
+    }
+    
+    .cards-wrap-all {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    
+    .cards-item {
+      margin-bottom: 23px;
+    }
+    
+    .img-wrap {
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column; 
+      width: 402px;
+      height: 257px;
+      padding: 70px 210px 80px 30px; 
+    }
+    
+    .img-1 {
+      background-image: url(../img-2/seeds.png);
+      background-size: 417px 275px;  
+      background-repeat: no-repeat;
+      z-index: 100;
+      border-radius: 10px;
+    }
+    
+    .img-2 {
+      background-image: url(../img-2/deff.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      background-position: top left;
+      border-radius: 10px;
+    }
+    
+    .img-3 {
+      background-image: url(../img-2/micro.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .img-4 {
+      background-image: url(../img-2/service.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .header-item {
+      margin: 0;
+      font-size: 30px;
+    }
+    
+    .cards-services {
+      display: flex;
+      flex-wrap: wrap;
+      width: 804px; 
+    }
+    
+    .cards-wrap {
+      width: 1020px;
+      margin: 0 auto;
+      border-top: 2px solid black;
+      padding-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    /* SEEDS */
+  
+  .img-seeds-lidea {
+    background-image: url(../img-2/lidea-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+    background-repeat: no-repeat;
+    z-index: 100;
+  }
+  
+  .header-cards-link-seeds {
+    font-size: 49px;
+    color: #2A4903;
+    font-weight: 600;
+  }
+  
+  .cards-wrap-seeds {
+    padding-top: 25px;
+    width: 1000px;
+  }
+  
+  .right {
+    width: 1000px;
+  }
+  
+  .header-cards-seeds {  
+    width: 1000px;
+  }
+  
+  .cards-right-seeds {
+    width: 1000px;
+  }
+  
+  .cards-wrap-production {
+    border-top: 2px solid black;
+    margin: 23px;
+    width: 1000px;
+  }
+  
+  .cards-item-seeds-tab {
+    margin-bottom: 23px;
+  }
+  .img-seeds-alfalfa {
+    background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-1 {  
+    background-image:  url(../img-2/corn/corn-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-podsolnuh {
+    background-image:  url(../img-2/sunflower/sunflower-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-soya {
+    background-image:  url(../img-2/soy/soy-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-raps {
+    background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-sorghum {
+    background-image:  url(../img-2/sorghum/sorghum-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .cards-text1 {
+    font-size: 30px;
+  }
+  
+  .seeds-type {
+    font-size: 30px;
+  }
+  
+  .cards-text2 {
+    font-size: 30px;
+  }
+  
+  .stars {
+    width: 25px;
+  }
+  
+  .cards-text3 {
+    font-size: 20px;
+  }
+  
+  .cards-text4 {
+    font-size: 25px;
+  }
+  
+  .seeds-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .cards-wrap-seeds-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 485px;
+    margin: 0 auto;
+  }
+  
+  .cards-item-seeds {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .header-cards-seeds2 {
+    display: none;
+  }
+  
+  .visible {
+    display: inline;
+  }
+  
+  .margin-bottom {
+    margin-bottom: 20px;
+  }
+  
+  .cards-wrap-all-seeds {
+    width: 1000px;  
+  }
+  
+  .pl {
+    margin-right: 10px;
+  }
+  
+  .cards-centr {
+    flex-direction: row;
+  }
+  
+  .inner-corn-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-corn-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-corn-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-text4 {
+    font-size: 20px;
+  }
+  
+  .seeds-svg-corn {
+    width: 45px;
+  }
+  .seeds-svg-cow {
+    width: 45px;
+  }
+  
+  .cards-corn-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sunflower-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-rapeseed-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-rapeseed-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-rapeseed-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-soy-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-soy-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-soy-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sorghum-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-sorghum-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-sorghum-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-alfalfa-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-alfalfa-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-alfalfa-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  
+  .cards-wrap-requisites {
+    width: 980px;
+  }
+  
+  .requisites-text {
+    font-size: 36px;
+    padding-right: 14px;
+  }
+  
+  .requisites-text2 {
+    font-size: 30px;
+  }
+  
+  }
+
+
+
+
+
+
+
+
+
+
+
+  /* 1179 */
+
+  @media(max-width: 1179px)
+  {
+  
+    .seeds-list-left {
+      list-style: none;
+    }
+  
+    .header-top {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 270px;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 15px solid green;
+      border-bottom: 15px solid orange;
+      }
+    
+    .addres {
+      font-size: 22px;
+    }
+    
+    .footer-container {
+      background: linear-gradient(0deg, #000000d6, #242427ac);
+      height: 250px;
+      width: 100%;
+      padding-top: 15px; 
+      font-size: 25px;
+      }
+    
+    .nav-list {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+    }
+    
+    .nav-list--item {
+      padding:0 0 15px 0;
+      color: yellowgreen;
+    }
+    
+    .hero-container {
+      width: 100%;
+      margin-bottom: 23px;
+      height: 295px;
+      padding: 45px 0 0 345px;
+    }
+    
+   
+    .hero-text {
+      font-size: 25px;
+      font-style: italic;
+      font-weight: 600;
+      color: #2A4903;
+    }
+    
+    .container-text {
+      width: 864px;
+      padding: 0;
+    }
+    
+    .cards-wrap-all {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    
+    .cards-item {
+      margin-bottom: 23px;
+    }
+    
+    .img-wrap {
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column; 
+      width: 402px;
+      height: 257px;
+      padding: 70px 210px 80px 30px; 
+    }
+    
+    .img-1 {
+      background-image: url(../img-2/seeds.png);
+      background-size: 417px 275px;  
+      background-repeat: no-repeat;
+      z-index: 100;
+      border-radius: 10px;
+    }
+    
+    .img-2 {
+      background-image: url(../img-2/deff.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      background-position: top left;
+      border-radius: 10px;
+    }
+    
+    .img-3 {
+      background-image: url(../img-2/micro.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .img-4 {
+      background-image: url(../img-2/service.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .header-item {
+      margin: 0;
+      font-size: 30px;
+    }
+    
+    .cards-services {
+      display: flex;
+      flex-wrap: wrap;
+      width: 804px; 
+    }
+    
+    .cards-wrap {
+      width: 1020px;
+      margin: 0 auto;
+      border-top: 2px solid black;
+      padding-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    /* SEEDS */
+  
+  .img-seeds-lidea {
+    background-image: url(../img-2/lidea-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+    background-repeat: no-repeat;
+    z-index: 100;
+  }
+  
+  .header-cards-link-seeds {
+    font-size: 49px;
+    color: #2A4903;
+    font-weight: 600;
+  }
+  
+  .cards-wrap-seeds {
+    padding-top: 25px;
+    width: 1000px;
+  }
+  
+  .right {
+    width: 1000px;
+  }
+  
+  .header-cards-seeds {  
+    width: 1000px;
+  }
+  
+  .cards-right-seeds {
+    width: 1000px;
+  }
+  
+  .cards-wrap-production {
+    border-top: 2px solid black;
+    margin: 23px;
+    width: 1000px;
+  }
+  
+  .cards-item-seeds-tab {
+    margin-bottom: 23px;
+  }
+  .img-seeds-alfalfa {
+    background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-1 {  
+    background-image:  url(../img-2/corn/corn-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-podsolnuh {
+    background-image:  url(../img-2/sunflower/sunflower-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-soya {
+    background-image:  url(../img-2/soy/soy-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-raps {
+    background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-sorghum {
+    background-image:  url(../img-2/sorghum/sorghum-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .cards-text1 {
+    font-size: 30px;
+  }
+  
+  .seeds-type {
+    font-size: 30px;
+  }
+  
+  .cards-text2 {
+    font-size: 30px;
+  }
+  
+  .stars {
+    width: 25px;
+  }
+  
+  .cards-text3 {
+    font-size: 20px;
+  }
+  
+  .cards-text4 {
+    font-size: 25px;
+  }
+  
+  .seeds-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .cards-wrap-seeds-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 485px;
+    margin: 0 auto;
+  }
+  
+  .cards-item-seeds {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .header-cards-seeds2 {
+    display: none;
+  }
+  
+  .visible {
+    display: inline;
+  }
+  
+  .margin-bottom {
+    margin-bottom: 20px;
+  }
+  
+  .cards-wrap-all-seeds {
+    width: 1000px;  
+  }
+  
+  .pl {
+    margin-right: 10px;
+  }
+  
+  .cards-centr {
+    flex-direction: row;
+  }
+  
+  .inner-corn-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-corn-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-corn-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-text4 {
+    font-size: 20px;
+  }
+  
+  .seeds-svg-corn {
+    width: 45px;
+  }
+  .seeds-svg-cow {
+    width: 45px;
+  }
+  
+  .cards-corn-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sunflower-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-rapeseed-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-rapeseed-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-rapeseed-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-soy-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-soy-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-soy-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sorghum-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-sorghum-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-sorghum-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-alfalfa-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-alfalfa-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-alfalfa-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  
+  .cards-wrap-requisites {
+    width: 980px;
+  }
+  
+  .requisites-text {
+    font-size: 36px;
+    padding-right: 14px;
+  }
+  
+  .requisites-text2 {
+    font-size: 30px;
+  }
+  
+  }
+
+
+
+
+
+
+
+
+
+  /* 1170 */
+
+  @media(max-width: 1170px)
+  {
+  
+    .seeds-list-left {
+      list-style: none;
+    }
+  
+    .header-top {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 270px;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 15px solid green;
+      border-bottom: 15px solid orange;
+      }
+    
+    .addres {
+      font-size: 22px;
+    }
+    
+    .footer-container {
+      background: linear-gradient(0deg, #000000d6, #242427ac);
+      height: 250px;
+      width: 100%;
+      padding-top: 15px; 
+      font-size: 25px;
+      }
+    
+    .nav-list {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+    }
+    
+    .nav-list--item {
+      padding:0 0 15px 0;
+      color: yellowgreen;
+    }
+    
+    .hero-container {
+      width: 100%;
+      margin-bottom: 23px;
+      height: 295px;
+      padding: 45px 0 0 345px;
+    }
+    
+   
+    .hero-text {
+      font-size: 25px;
+      font-style: italic;
+      font-weight: 600;
+      color: #2A4903;
+    }
+    
+    .container-text {
+      width: 864px;
+      padding: 0;
+    }
+    
+    .cards-wrap-all {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    
+    .cards-item {
+      margin-bottom: 23px;
+    }
+    
+    .img-wrap {
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column; 
+      width: 402px;
+      height: 257px;
+      padding: 70px 210px 80px 30px; 
+    }
+    
+    .img-1 {
+      background-image: url(../img-2/seeds.png);
+      background-size: 417px 275px;  
+      background-repeat: no-repeat;
+      z-index: 100;
+      border-radius: 10px;
+    }
+    
+    .img-2 {
+      background-image: url(../img-2/deff.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      background-position: top left;
+      border-radius: 10px;
+    }
+    
+    .img-3 {
+      background-image: url(../img-2/micro.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .img-4 {
+      background-image: url(../img-2/service.png);
+      background-size: 417px 275px;
+      background-repeat: no-repeat;
+      z-index: 100;
+      overflow-x: visible;
+      border-radius: 10px;
+    }
+    
+    .header-item {
+      margin: 0;
+      font-size: 30px;
+    }
+    
+    .cards-services {
+      display: flex;
+      flex-wrap: wrap;
+      width: 804px; 
+    }
+    
+    .cards-wrap {
+      width: 1020px;
+      margin: 0 auto;
+      border-top: 2px solid black;
+      padding-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    /* SEEDS */
+  
+  .img-seeds-lidea {
+    background-image: url(../img-2/lidea-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+    background-repeat: no-repeat;
+    z-index: 100;
+  }
+  
+  .header-cards-link-seeds {
+    font-size: 49px;
+    color: #2A4903;
+    font-weight: 600;
+  }
+  
+  .cards-wrap-seeds {
+    padding-top: 25px;
+    width: 1000px;
+  }
+  
+  .right {
+    width: 1000px;
+  }
+  
+  .header-cards-seeds {  
+    width: 1000px;
+  }
+  
+  .cards-right-seeds {
+    width: 1000px;
+  }
+  
+  .cards-wrap-production {
+    border-top: 2px solid black;
+    margin: 23px;
+    width: 1000px;
+  }
+  
+  .cards-item-seeds-tab {
+    margin-bottom: 23px;
+  }
+  .img-seeds-alfalfa {
+    background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-1 {  
+    background-image:  url(../img-2/corn/corn-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-podsolnuh {
+    background-image:  url(../img-2/sunflower/sunflower-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-soya {
+    background-image:  url(../img-2/soy/soy-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-raps {
+    background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .img-seeds-sorghum {
+    background-image:  url(../img-2/sorghum/sorghum-t.png);
+    background-size: 400px 568px;
+    width: 400px;
+    height: 535px;
+  }
+  
+  .cards-text1 {
+    font-size: 30px;
+  }
+  
+  .seeds-type {
+    font-size: 30px;
+  }
+  
+  .cards-text2 {
+    font-size: 30px;
+  }
+  
+  .stars {
+    width: 25px;
+  }
+  
+  .cards-text3 {
+    font-size: 20px;
+  }
+  
+  .cards-text4 {
+    font-size: 25px;
+  }
+  
+  .seeds-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .cards-wrap-seeds-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 485px;
+    margin: 0 auto;
+  }
+  
+  .cards-item-seeds {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .header-cards-seeds2 {
+    display: none;
+  }
+  
+  .visible {
+    display: inline;
+  }
+  
+  .margin-bottom {
+    margin-bottom: 20px;
+  }
+  
+  .cards-wrap-all-seeds {
+    width: 1000px;  
+  }
+  
+  .pl {
+    margin-right: 10px;
+  }
+  
+  .cards-centr {
+    flex-direction: row;
+  }
+  
+  .inner-corn-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-corn-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-corn-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-corn-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-text4 {
+    font-size: 20px;
+  }
+  
+  .seeds-svg-corn {
+    width: 45px;
+  }
+  .seeds-svg-cow {
+    width: 45px;
+  }
+  
+  .cards-corn-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sunflower-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-rapeseed-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-rapeseed-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-rapeseed-wh-2 { 
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-rapeseed-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-soy-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-soy-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-soy-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-soy-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-sorghum-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-sorghum-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-sorghum-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-sorghum-wh-5 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .inner-alfalfa-1 {
+    background-size: 220px 180px;
+  }
+  
+  .cards-alfalfa-wh-1 {
+    width: 220px;
+    height: 180px;
+    margin: 0 auto 15px;
+  }
+  
+  .cards-alfalfa-wh-2 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-3 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .cards-alfalfa-wh-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  
+  .cards-wrap-requisites {
+    width: 980px;
+  }
+  
+  .requisites-text {
+    font-size: 36px;
+    padding-right: 14px;
+  }
+  
+  .requisites-text2 {
+    font-size: 30px;
+  }
+  
+  }
+
+
+/* 1080 */
+
+
+
+@media(max-width: 1080px)
+{
+
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    width: 100%;
+    margin-bottom: 23px;
+    height: 295px;
+    padding: 45px 0 0 345px;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    width: 864px;
+    padding: 0;
+  }
+  
+  .cards-wrap-all {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 804px; 
+  }
+  
+  .cards-wrap {
+    width: 1020px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  /* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 1000px;
+}
+
+.right {
+  width: 1000px;
+}
+
+.header-cards-seeds {  
+  width: 1000px;
+}
+
+.cards-right-seeds {
+  width: 1000px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 23px;
+  width: 1000px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.seeds-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cards-wrap-seeds-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 485px;
+  margin: 0 auto;
+}
+
+.cards-item-seeds {
+  width: 100%;
+  text-align: center;
+}
+
+.header-cards-seeds2 {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.cards-wrap-all-seeds {
+  width: 1000px;  
+}
+
+.pl {
+  margin-right: 10px;
+}
+
+.cards-centr {
+  flex-direction: row;
+}
+
+.inner-corn-1 {
+  background-size: 220px 180px;
+}
+
+.cards-corn-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-corn-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-text4 {
+  font-size: 20px;
+}
+
+.seeds-svg-corn {
+  width: 45px;
+}
+.seeds-svg-cow {
+  width: 45px;
+}
+
+.cards-corn-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sunflower-1 {
+  background-size: 220px 180px;
+}
+
+.cards-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-rapeseed-1 {
+  background-size: 220px 180px;
+}
+
+.cards-rapeseed-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-rapeseed-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-soy-1 {
+  background-size: 220px 180px;
+}
+
+.cards-soy-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-soy-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sorghum-1 {
+  background-size: 220px 180px;
+}
+
+.cards-sorghum-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-sorghum-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-alfalfa-1 {
+  background-size: 220px 180px;
+}
+
+.cards-alfalfa-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-alfalfa-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+
+.cards-wrap-requisites {
+  width: 980px;
+}
+
+.requisites-text {
+  font-size: 36px;
+  padding-right: 14px;
+}
+
+.requisites-text2 {
+  font-size: 30px;
+}
+
+}
+
+
+
+
+@media(max-width: 1024px)
+{
+
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    width: 100%;
+    margin-bottom: 23px;
+    height: 295px;
+    padding: 45px 0 0 345px;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    width: 864px;
+    padding: 0;
+  }
+  
+  .cards-wrap-all {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 804px; 
+  }
+  
+  .cards-wrap {
+    width: 1020px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  /* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 1000px;
+}
+
+.right {
+  width: 1000px;
+}
+
+.header-cards-seeds {  
+  width: 1000px;
+}
+
+.cards-right-seeds {
+  width: 1000px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 23px;
+  width: 1000px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.seeds-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cards-wrap-seeds-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 485px;
+  margin: 0 auto;
+}
+
+.cards-item-seeds {
+  width: 100%;
+  text-align: center;
+}
+
+.header-cards-seeds2 {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.cards-wrap-all-seeds {
+  width: 1000px;  
+}
+
+.pl {
+  margin-right: 10px;
+}
+
+.cards-centr {
+  flex-direction: row;
+}
+
+.inner-corn-1 {
+  background-size: 220px 180px;
+}
+
+.cards-corn-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-corn-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-corn-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-text4 {
+  font-size: 20px;
+}
+
+.seeds-svg-corn {
+  width: 45px;
+}
+.seeds-svg-cow {
+  width: 45px;
+}
+
+.cards-corn-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sunflower-1 {
+  background-size: 220px 180px;
+}
+
+.cards-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-rapeseed-1 {
+  background-size: 220px 180px;
+}
+
+.cards-rapeseed-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-rapeseed-wh-2 { 
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-rapeseed-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-soy-1 {
+  background-size: 220px 180px;
+}
+
+.cards-soy-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-soy-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-soy-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-sorghum-1 {
+  background-size: 220px 180px;
+}
+
+.cards-sorghum-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-sorghum-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-sorghum-wh-5 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.inner-alfalfa-1 {
+  background-size: 220px 180px;
+}
+
+.cards-alfalfa-wh-1 {
+  width: 220px;
+  height: 180px;
+  margin: 0 auto 15px;
+}
+
+.cards-alfalfa-wh-2 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.cards-alfalfa-wh-4 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+
+.cards-wrap-requisites {
+  width: 980px;
+}
+
+.requisites-text {
+  font-size: 36px;
+  padding-right: 14px;
+}
+
+.requisites-text2 {
+  font-size: 30px;
+}
+
+}
+
+
+/* 1000 */
+
+
+@media(max-width: 1000px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    background-image: url(../img-2/slide/hero-cut768.png);
+    background-repeat: no-repeat;
+    background-size: 820px 340px;
+    width: 100%;
+    height: 340px;
+    margin-bottom: 23px;
+    
+    padding: 0px 0px 0px 0px;
+    display: block;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 405px;
+    padding-left: 15px;
+  }
+  
+  .cards-wrap-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .cards-wrap {
+    width: 410px;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: block;
+  }
+  
+  .headers-service {
+    width: 700px;
+    margin: 0 auto 20px;
+    /* min-height: 230px;
+    max-height: 1000px; */
+  }
+
+  .list-wrap-service {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 750px;
+}
+
+.right {
+  width: 735px;
+}
+
+.header-cards-seeds {  
+  width: 735px;
+}
+
+.cards-right-seeds {
+  width: 735px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 490px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 460px;
+  height: 192px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-all-seeds {
+  width: 750px;  
+}
+
+.cards-wrap-requisites {
+  width: 740px;
+}
+
+.requisites-text {
+  font-size: 33px;
+}
+
+.certificates {
+  background-size: 750px 1068px;
+  width: 760px;
+  height: 1082px;
+}
+
+}
+
+
+
+/* 840 */
+@media(max-width: 840px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    background-image: url(../img-2/slide/hero-cut768.png);
+    background-repeat: no-repeat;
+    background-size: 820px 340px;
+    width: 100%;
+    height: 340px;
+    margin-bottom: 23px;
+    
+    padding: 0px 0px 0px 0px;
+    display: block;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 405px;
+    padding-left: 15px;
+  }
+  
+  .cards-wrap-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .cards-wrap {
+    width: 410px;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: block;
+  }
+  
+  .headers-service {
+    width: 700px;
+    margin: 0 auto 20px;
+    /* min-height: 230px;
+    max-height: 1000px; */
+  }
+
+  .list-wrap-service {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 750px;
+}
+
+.right {
+  width: 735px;
+}
+
+.header-cards-seeds {  
+  width: 735px;
+}
+
+.cards-right-seeds {
+  width: 735px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 490px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 460px;
+  height: 192px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-all-seeds {
+  width: 750px;  
+}
+
+.cards-wrap-requisites {
+  width: 740px;
+}
+
+.requisites-text {
+  font-size: 33px;
+}
+
+.certificates {
+  background-size: 750px 1068px;
+  width: 760px;
+  height: 1082px;
+}
+
+}
+
+
+
+
+
+/* 835 */
+
+@media(max-width: 836px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    background-image: url(../img-2/slide/hero-cut768.png);
+    background-repeat: no-repeat;
+    background-size: 820px 340px;
+    width: 100%;
+    height: 340px;
+    margin-bottom: 23px;
+    
+    padding: 0px 0px 0px 0px;
+    display: block;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 405px;
+    padding-left: 15px;
+  }
+  
+  .cards-wrap-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .cards-wrap {
+    width: 410px;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: block;
+  }
+  
+  .headers-service {
+    width: 700px;
+    margin: 0 auto 20px;
+    /* min-height: 230px;
+    max-height: 1000px; */
+  }
+
+  .list-wrap-service {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 750px;
+}
+
+.right {
+  width: 735px;
+}
+
+.header-cards-seeds {  
+  width: 735px;
+}
+
+.cards-right-seeds {
+  width: 735px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 490px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 460px;
+  height: 192px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-all-seeds {
+  width: 750px;  
+}
+
+.cards-wrap-requisites {
+  width: 740px;
+}
+
+.requisites-text {
+  font-size: 33px;
+}
+
+.certificates {
+  background-size: 750px 1068px;
+  width: 760px;
+  height: 1082px;
+}
+
+}
+
+
+
+
+
+
+
+
+/* 828 */
+@media(max-width: 828px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    background-image: url(../img-2/slide/hero-cut768.png);
+    background-repeat: no-repeat;
+    background-size: 820px 340px;
+    width: 100%;
+    height: 340px;
+    margin-bottom: 23px;
+    
+    padding: 0px 0px 0px 0px;
+    display: block;
+  }
+  
+
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 405px;
+    padding-left: 15px;
+  }
+  
+  .cards-wrap-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .cards-wrap {
+    width: 410px;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: block;
+  }
+  
+  .headers-service {
+    width: 700px;
+    margin: 0 auto 20px;
+    /* min-height: 230px;
+    max-height: 1000px; */
+  }
+
+  .list-wrap-service {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 750px;
+}
+
+.right {
+  width: 735px;
+}
+
+.header-cards-seeds {  
+  width: 735px;
+}
+
+.cards-right-seeds {
+  width: 735px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 490px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 460px;
+  height: 192px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-all-seeds {
+  width: 750px;  
+}
+
+.cards-wrap-requisites {
+  width: 740px;
+}
+
+.requisites-text {
+  font-size: 33px;
+}
+
+.certificates {
+  background-size: 750px 1068px;
+  width: 760px;
+  height: 1082px;
+}
+
+}
+
+
+
+
+
+
+@media(max-width: 768px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+  .header-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 270px;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 15px solid green;
+    border-bottom: 15px solid orange;
+    }
+  
+  .addres {
+    font-size: 22px;
+  }
+  
+
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+  .footer-container {
+    background: linear-gradient(0deg, #000000d6, #242427ac);
+    height: 250px;
+    width: 100%;
+    padding-top: 15px; 
+    font-size: 25px;
+    }
+  
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .nav-list--item {
+    padding:0 0 15px 0;
+    color: yellowgreen;
+  }
+  
+  .hero-container {
+    background-image: url(../img-2/slide/hero-cut768.png);
+    background-repeat: no-repeat;
+    background-size: 758px 340px;
+    width: 100%;
+    height: 340px;
+    margin-bottom: 23px;
+    
+    padding: 0px 0px 0px 0px;
+    display: block;
+  }
+  
+ 
+  
+  .hero-text {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    color: #2A4903;
+  }
+  
+  .container-text {
+    height: 340px;
+    width: 405px;
+    padding-left: 15px;
+  }
+  
+  .cards-wrap-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .cards-item {
+    margin-bottom: 23px;
+  }
+  
+  .img-wrap {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; 
+    width: 402px;
+    height: 257px;
+    padding: 70px 210px 80px 30px; 
+  }
+  
+  .img-1 {
+    background-image: url(../img-2/seeds.png);
+    background-size: 417px 275px;  
+    background-repeat: no-repeat;
+    z-index: 100;
+    border-radius: 10px;
+  }
+  
+  .img-2 {
+    background-image: url(../img-2/deff.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    background-position: top left;
+    border-radius: 10px;
+  }
+  
+  .img-3 {
+    background-image: url(../img-2/micro.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .img-4 {
+    background-image: url(../img-2/service.png);
+    background-size: 417px 275px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    overflow-x: visible;
+    border-radius: 10px;
+  }
+  
+  .header-item {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  .cards-services {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .cards-wrap {
+    width: 410px;
+    border-top: 2px solid black;
+    padding-top: 20px;
+    display: block;
+  }
+  
+  .headers-service {
+    width: 700px;
+    margin: 0 auto 20px;
+    /* min-height: 230px;
+    max-height: 1000px; */
+  }
+
+  .list-wrap-service {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 750px;
+}
+
+.right {
+  width: 735px;
+}
+
+.header-cards-seeds {  
+  width: 735px;
+}
+
+.cards-right-seeds {
+  width: 735px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 490px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 460px;
+  height: 192px;
+}
+
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+.cards-text1 {
+  font-size: 30px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 30px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-all-seeds {
+  width: 750px;  
+}
+
+.cards-wrap-requisites {
+  width: 740px;
+}
+
+.requisites-text {
+  font-size: 33px;
+}
+
+.certificates {
+  background-size: 750px 1068px;
+  width: 760px;
+  height: 1082px;
+}
+
+}
+
+
+/* 750 */
+@media(max-width: 750px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.cards-right-seeds {
+    width: 745px;
+}
+
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut-591.png);
+  background-repeat: no-repeat;
+  background-size: 745px 305px;
+  width: 100%;
+  height: 305px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 550px;
+  margin: 0 auto;
+}
+
+.right {
+  width: 570px;
+}
+
+.header-cards-seeds {  
+  width: 570px;
+}
+
+.cards-right-seeds {
+  width: 535px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 80%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+}
+
+/* 600 */
+
+@media(max-width: 600px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.cards-right-seeds {
+    width: 580px;
+}
+
+.addres {
+  font-size: 22px;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut-591.png);
+  background-repeat: no-repeat;
+  background-size: 590px 305px;
+  width: 100%;
+  height: 305px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+  
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 550px;
+  margin: 0 auto;
+}
+
+.right {
+  width: 570px;
+}
+
+.header-cards-seeds {  
+  width: 570px;
+}
+
+.cards-right-seeds {
+  width: 535px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+}
+
+
+
+@media(max-width: 592px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+
+  .img-seeds-right-text {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #434B4F; 
+    text-align: justify;
+  }
+
+
+
+.cards-right-seeds {
+    width: 580px;
+}
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut-591.png);
+  background-repeat: no-repeat;
+  background-size: 590px 305px;
+  width: 100%;
+  height: 305px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 550px;
+  margin: 0 auto;
+}
+
+.right {
+  width: 570px;
+}
+
+.header-cards-seeds {  
+  width: 570px;
+}
+
+.cards-right-seeds {
+  width: 535px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+}
+/* 576 */
+@media(max-width: 576px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut-591.png);
+  background-repeat: no-repeat;
+  background-size: 570px 290px;
+  width: 100%;
+  height: 290px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+  /* min-height: 230px;
+  max-height: 1000px; */
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.right {
+  width: 540px;
+}
+
+.header-cards-seeds {  
+  width: 530px;
+}
+
+
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+.cards-right-seeds {
+  width: 400px;
+}
+
+}
+
+
+
+
+
+
+/* 541 */
+@media(max-width: 541px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut-591.png);
+  background-repeat: no-repeat;
+  background-size: 530px 290px;
+  width: 100%;
+  height: 290px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.right {
+  width: 540px;
+}
+
+.header-cards-seeds {  
+  width: 530px;
+}
+
+
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+.cards-right-seeds {
+  width: 400px;
+}
+
+}
+
+/* 460 */
+
+@media(max-width: 460px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.addres {
+  font-size: 22px;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut.png);
+  background-repeat: no-repeat;
+  background-size: 445px 310px;
+  width: 100%;
+  height: 315px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+ 
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 400px;
+}
+
+.right {
+  width: 420px;
+}
+
+.header-cards-seeds {  
+  width: 400px;
+}
+
+.cards-right-seeds {
+  width: 400px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+}
+
+
+/* 420 */
+@media(max-width: 420px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 270px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut.png);
+  background-repeat: no-repeat;
+  background-size: 415px 310px;
+  width: 100%;
+  height: 315px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 405px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 402px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 417px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 417px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 410px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+  
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 410px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 400px;
+}
+
+.right {
+  width: 420px;
+}
+
+.header-cards-seeds {  
+  width: 400px;
+}
+
+.cards-right-seeds {
+  width: 400px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 430px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 400px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 400px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 87%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 410px;
+}
+
+.cards-wrap-all-seeds {
+  width: 410px;  
+}
+
+.cards-wrap-requisites {
+  width: 400px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 415px;
+  height: 591px;
+}
+
+}
+
+
+/* 360 */
+
+@media(max-width: 420px)
+{
+  .seeds-list-left {
+    list-style: none;
+  }
+
+.header-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 270px;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 15px solid green;
+  border-bottom: 15px solid orange;
+  }
+
+.addres {
+  font-size: 22px;
+}
+
+.footer-container {
+  background: linear-gradient(0deg, #000000d6, #242427ac);
+  height: 220px;
+  width: 100%;
+  padding-top: 15px; 
+  font-size: 25px;
+  }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav-list--item {
+  padding:0 0 15px 0;
+  color: yellowgreen;
+}
+
+.img-seeds-right-text {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 300;
+  color: #434B4F; 
+  text-align: justify;
+}
+
+
+
+.hero-container {
+  background-image: url(../img-2/slide/hero-cut.png);
+  background-repeat: no-repeat;
+  background-size: 415px 310px;
+  width: 100%;
+  height: 315px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.hero-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  color: #2A4903;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  width: 355px;
+}
+
+.cards-wrap-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards-item {
+  margin-bottom: 23px;
+}
+
+.img-wrap {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  width: 355px;
+  height: 257px;
+  padding: 70px 210px 80px 30px; 
+}
+
+.img-1 {
+  background-image: url(../img-2/seeds.png);
+  background-size: 355px 275px;  
+  background-repeat: no-repeat;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.img-2 {
+  background-image: url(../img-2/deff.png);
+  background-size: 355px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-position: top left;
+  border-radius: 10px;
+}
+
+.img-3 {
+  background-image: url(../img-2/micro.png);
+  background-size: 355px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.img-4 {
+  background-image: url(../img-2/service.png);
+  background-size: 355px 275px;
+  background-repeat: no-repeat;
+  z-index: 100;
+  overflow-x: visible;
+  border-radius: 10px;
+}
+
+.header-item {
+  margin: 0;
+  font-size: 30px;
+}
+
+.cards-services {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-wrap {
+  width: 355px;
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: block;
+}
+
+.headers-service {
+  width: 410px;
+  margin: 0 auto 20px;
+  
+}
+
+.text-header {
+  font-size: 30px;
+  color: #A0BC2A;
+  font-weight: 400;
+}
+
+.text2-service {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.list-heder-service {
+  font-size: 30px;
+  color: #529934;
+}
+
+.list-wrap-service {
+  width: 355px;
+  margin: 0 auto;
+}
+
+/* SEEDS */
+
+.img-seeds-lidea {
+  background-image: url(../img-2/lidea-t.png);
+  background-size: 355px 468px;
+  width: 355px;
+  height: 535px;
+  background-repeat: no-repeat;
+  z-index: 100;
+}
+
+.header-cards-link-seeds {
+  font-size: 49px;
+  color: #2A4903;
+  font-weight: 600;
+}
+
+.cards-wrap-seeds {
+  padding-top: 25px;
+  width: 355px;
+}
+
+.right {
+  width: 355px;
+}
+
+.header-cards-seeds {  
+  width: 355px;
+}
+
+.cards-right-seeds {
+  width: 355px;
+}
+
+.h-seeds {
+  font-size: 40px;
+}
+
+.seeds-right-text {
+  font-size: 30px;
+}
+
+.cards-wrap-production1 {
+  margin: 0 auto;
+  width: 355px;
+}
+
+.cards-wrap-production {
+  border-top: 2px solid black;
+  margin: 0 auto;
+  width: 355px;
+}
+
+.img-wrap-seeds-tab {
+  background-position: 0px 10px;
+  width: 355px;
+  height: 192px;  
+}
+.cards-item-seeds-tab {
+  margin-bottom: 23px;
+}
+
+.header-item-seeds-tab {
+  font-size: 30px;
+}
+
+.text-seeds-tab {
+  font-size: 20px;
+}
+
+.list-production {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards-left-seeds {
+  margin: 0 auto 45px;
+}
+
+.img-seeds-alfalfa {
+  background-image:  url(../img-2/alfalfa/alfalfa-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.img-seeds-1 {  
+  background-image:  url(../img-2/corn/corn-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.img-seeds-podsolnuh {
+  background-image:  url(../img-2/sunflower/sunflower-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.img-seeds-soya {
+  background-image:  url(../img-2/soy/soy-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.img-seeds-raps {
+  background-image:  url(../img-2/rapeseed/rapeseed-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.img-seeds-sorghum {
+  background-image:  url(../img-2/sorghum/sorghum-t.png);
+  background-size: 400px 568px;
+  width: 355px;
+  height: 535px;
+}
+
+.modal__dialog {
+  width: 80%;
+  padding: 0px 30px;
+  overflow-y: scroll;
+}
+
+.cards-text1 {
+  font-size: 28px;
+}
+
+.seeds-type {
+  font-size: 30px;
+}
+
+.cards-text2 {
+  font-size: 26px;
+}
+
+.stars {
+  width: 25px;
+}
+
+.cards-text3 {
+  font-size: 20px;
+}
+
+.cards-text4 {
+  font-size: 25px;
+}
+
+.cards-wrap-seeds-bottom {
+  width: 355px;
+}
+
+.cards-wrap-all-seeds {
+  width: 355px;  
+}
+
+.cards-wrap-requisites {
+  width: 355px;
+}
+
+.requisites-text {
+  font-size: 30px;
+}
+
+.requisites-text2 {
+  font-size: 24px;
+}
+
+.certificates {
+  background-size: 400px 580px;
+  width: 355px;
+  height: 591px;
+}
+
+}
