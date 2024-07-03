@@ -125,10 +125,16 @@ h2 {
     background-color: #252a30;
 }
 
+.nav-container {
+  width: 100%;
+  height: 110px;
+}
+
 .logo-car {
     background-image: url(../pic/logo.png);
-    background-size: cover;
-    height: 113px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90px;
     width: 166px;
 }
 
@@ -161,24 +167,31 @@ h2 {
     background-image: url(../pic/redcar.png);
     background-repeat: no-repeat;
     background-color: black;
-    background-size:  1200px 500px;
+    background-size:  cover;
     width: 1200px;
-    min-height: 500px;
+    min-height: 540px;
     display: flex;
     justify-content: flex-end;
+    overflow: hidden;
 }
 
 .info-car-block {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    color: blanchedalmond;
-    width: 280px;
-    height: 425px;
+    width: 350px;
+    height: 500px;
     text-align: center;
-    margin-right: 100px;
-    margin-bottom: 15px;
+    margin-right: 40px;
+}
+
+.logo {
+  background-image: url(../pic/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 113px;
+    width: 166px;
 }
 
 .cer-info-1 {
@@ -202,27 +215,31 @@ h2 {
 .button {
   font-size: 16px;
   font-weight: bold;
+  text-transform: uppercase;
   color: #F0F0F0;
   background-color: #eb2428;
-  padding: 10px;
+  padding: 15px 25px;
   border-radius: 3px;
 }
 
 .work-type {
   width: 100%;
-  min-height: 500px;
-  background-image: url(../pic/slider/Layer\ 571.png);
- 
+  min-height: 620px;
+  background-image: url(../pic/back2.png); 
+  padding-top: 100px;
+  overflow: hidden;
 }
 
 .work {
   font-size: 50px;
+  font-weight: bold;
   color: #F0F0F0;
   text-transform: uppercase;
 }
 
 .red-text {
   font-size: 50px;
+  font-weight: bold;
   color: #eb2428;
   text-transform: uppercase;
 }
@@ -233,7 +250,8 @@ h2 {
   align-items: center;
   flex-direction: row;
   width: 100%;
-  min-height: 500px;
+  min-height: 450px;
+  padding-left: 40px;
 }
 
 .head2 {
@@ -248,21 +266,19 @@ h2 {
   background-image: url(../pic/tarif.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 510px;
-  height: 176px;
+  width: 708px;
+  height: 232px;
+  
 }
 
 .chess {
   background-image: url(../pic/chess.png);
   background-repeat: no-repeat;
-  background-size: cover;
-  width: 380px;
   height: 40px;
-  color: aliceblue;
 }
 
 .info {
-  width: 510px;
+  width: 420px;
 }
 
 .info-item-uppercase {
