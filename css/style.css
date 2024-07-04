@@ -698,6 +698,12 @@ h2 {
   color: #fdc40f;
 }
 
+.email-link:hover {
+  transition: 0.5ms;
+  color:#eb2428;
+}
+
+
 .phone-footer {
   font-size:42px;
   font-weight: bold;
@@ -738,6 +744,17 @@ h2 {
   justify-content: space-around;
 
 }
+
+.hover-link {
+  color: wheat;
+}
+
+.hover-link:hover {
+  transition: 0.5s;
+  color:#eb2428;
+}
+
+
 
 .footer-wrap {
   display: flex;
