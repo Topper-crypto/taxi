@@ -308,6 +308,9 @@ h2 {
   width: 100%;
   min-height: 620px;
   background-image: url(../pic/back2.png); 
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0px -1px;
   padding-top: 100px;
   overflow: hidden;
 }
