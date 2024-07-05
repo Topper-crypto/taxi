@@ -269,9 +269,9 @@ h2 {
   border-radius: 10px;
 }
 
-.glow-on-hover:active {
+/* .glow-on-hover:active {
   color: #000
-}
+} */
 
 .glow-on-hover:active:after {
   background: transparent;
@@ -287,7 +287,7 @@ h2 {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #111;
+  /* background: #111; */
   left: 0;
   top: 0;
   border-radius: 10px;
@@ -395,6 +395,7 @@ h2 {
   background-size: cover;
   width: 55px;
   height: 55px;
+  
 }
 
 .whatsup {
@@ -739,7 +740,7 @@ h2 {
 }
 
 .email-link:hover {
-  transition: 0.5ms;
+  transition: 0.3s;
   color:#eb2428;
 }
 
@@ -748,6 +749,11 @@ h2 {
   font-size: 42px;
   font-weight: bold;
   color: #fdc40f;
+}
+
+.phone-footer:hover {
+  transition: .5s;
+  color: #eb2428;
 }
 
 .slider-h {
