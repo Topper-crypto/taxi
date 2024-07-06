@@ -829,6 +829,9 @@ h2 {
 
 }
 
+.slider-wrapper {
+  height: 700px;  
+}
 
 .address-block {
   width: 100%;
@@ -932,15 +935,12 @@ h2 {
 @media(max-width: 1179px) {
 .container-main{
 width: 1078px;}
-
 }
 
 
 @media(max-width: 1170px) {
 .container-main{
 width: 1169px;}
-
-
 }
 
 
@@ -982,8 +982,6 @@ width: 1169px;}
     
     .footer-element-2 {
       width: 450px;
-      
-     
     }
     
     .innerelements {
@@ -997,7 +995,123 @@ width: 1169px;}
   .container-main{
     width: 1023px;}
 
+  .phone {
+    font-size: 37px;
+  }
 
+  .logo {
+    width: 140px;
+  }
+
+  .info-car-block {
+    height: 400px;
+    margin-right: 20px;
+  }
+  
+  .car {
+    background-size: 1050px;
+    min-height: 400px;
+  }
+  .work-type {
+    padding-top: 60px;
+    min-height: 535px;
+  }
+
+  .work {
+    font-size: 45px;
+  }
+
+  .red-text {
+    font-size: 45px;
+  }
+
+  .scale {
+    height: 213px;
+  }
+
+  .conditions-info {
+    width: 390px;
+  }
+
+  .exp-1 {
+    padding-top: 40px;
+    min-height: 110px;
+  }
+
+  .girl-conditions {
+    min-height: 445px;
+  }
+
+  .girl {
+    height: 445px;
+  }
+
+  .girl-header {
+    font-size: 24px;
+  }
+
+  .girl-header-red {
+    font-size: 24px;
+  }
+
+  .cond {
+    width: 50px;
+    height: 50px;
+  }
+
+  .list-item {
+    font-size: 20px;
+  }
+
+  .wrap-cond {
+    min-height: 510px;
+  }
+
+  .slider-h {
+    padding-top: 40px;
+  }
+
+  .slider-header {
+    min-height: 130px;
+  }
+ 
+  .address-block {
+    min-height: 600px;
+  }
+
+  .footer-wrap {
+    justify-content: left;
+  }
+  .footer-contacts {
+    font-size: 36px;
+  }
+
+  .footer-address-element {
+    font-size: 20px;
+  }
+
+  .footer-element-1 {
+    width: 230px;
+    height: 250px;
+  }
+  
+  .footer-element-2 {
+    width: 420px;
+    height: 250px;
+  }
+  
+  .footer-element-3 {
+    width: 340px;
+    height: 250px;
+  }
+
+  .innerelements {
+    width: 435px;
+  }
+
+  .email-link {
+    font-size: 25px;
+  }
 }
 
 
@@ -1005,6 +1119,10 @@ width: 1169px;}
 @media(max-width: 1000px) {
   .container-main{
     width: 999px;}
+
+    .scale {
+      height: 208px;
+  }
 
 }
 
@@ -1014,9 +1132,185 @@ width: 1169px;}
   .container-main{
     width: 839px;}
 
+  .logo-car {
+    width: 100px;
+  }
+
+  .nav-top {
+    font-size: 25px;
+  }
+
+  .phone {
+    font-size: 30px;
+  }
+
+  .logo {
+    width: 125px;
+    height: 80px;
+  }
+
+  .car {
+    background-size: cover;
+    background-position: -50px 0;
+  }
+
+  .info-car-block {
+    height: 355px;
+    margin-right: 5px;
+    gap: 1rem;
+  }
+
+  .work-type {
+    padding-top: 25px;
+  } 
+
+  .work {
+    font-size: 38px;
+  }
+
+  .red-text {
+    font-size: 38px;
+  }
+
+  .scale {
+    height: 173px;
+  }
+  .wrap-scale {
+    min-height: 320px;
+  }
+
+  .chess {
+    padding-bottom: 70px;
+  }
+
+  .info-item-uppercase {
+    font-size: 30px;
+  }
+
+  .info-item {
+    font-size: 28px;
+    padding-bottom: 40px;
+  }
+
+  .work-type {
+    min-height: 410px;
+  }
+
+  .conditions {
+    height: 480PX;
+  }
+
+  .conditions-info {
+    width: 310px;
+    padding-top: 35px;
+    gap: 8px;
+  }
+
+  .conditions-item-red {
+    font-size: 50px;
+    padding-bottom: 20px;
+  }
+
+  .check2 {
+    width: 25px;
+    height: 20px;
+  }
+
+  .conditions-item {
+    font-size: 20px;
+  }
+
+  .exp-header {
+    font-size: 40px;
+  }
+
+  .exp-header-orange {
+    font-size: 40px;
+  }
+
+  .girl-conditions {
+    min-height: 415px;
+  }
+
+  .girl {
+    height: 415px;
+  }
+
+  .girl-header {
+    font-size: 23px;
+  }
+
+  .girl-header-red {
+    font-size: 23px;
+  }
+
+  .list-item {
+    font-size: 15px;
+  }
+
+  .conditions-lists {
+    gap: 8px;
+  }
+
+  .header-icon {
+    font-size: 45px;
+  }
+
+  .wrap-cond {
+    width: 800px;
+    min-height: 420px;
+  }
+
+  .icons {
+    width: 170px;
+    height: 200px;
+  }
+
+  .icon-pig {
+    background-position: 30px 0px;
+  }
+  
+  .icon-can {
+    background-position: 30px 0px;
+  }
+  
+  .icon-lic {
+    background-position: 30px 0px;
+  }
+  
+  .icon-mans {
+    background-position: 30px 0px;
+  }
+  
+  .icon-man {
+    background-position: 30px 0px;
+  }
+  
+  .icon-gbox {
+    background-position: 30px 0px;
+  }
+  
+  .icon-shield {
+    background-position: 30px 0px;
+  }
+  
+  .icon-car {
+    background-position: 30px 0px;
+  }
+
+  .cond-text {
+    font-size: 17px;
+  }
+
+  .slider-h {
+    font-size: 37px;
+  }
+
+  .slider-h-orangh {
+    font-size: 37px;
+  }
+
 }
-
-
 
 /* @media(max-width: 836px) {
 { */
