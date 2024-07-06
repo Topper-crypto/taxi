@@ -91,21 +91,21 @@ p {
 }
 
 
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
   
-  a {
-    text-decoration: none;
-    cursor: pointer;
-  }
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
   
-  html {
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
    
-  }
+}
   
 body {
     background-color: black;
@@ -117,12 +117,12 @@ h2 {
 }
 
 .container-main {
-    width: 1200px;
-    overflow: hidden;
-    height: auto;
-    /* padding: 5px; */
-    margin: 0 auto;
-    background-color: #252a30;
+ width: 1200px;
+ overflow: hidden;
+ height: auto;
+/* padding: 5px; */
+ margin: 0 auto;
+ background-color: #252a30;
 }
 
 .nav-container {
@@ -131,12 +131,12 @@ h2 {
 }
 
 .logo-car {
-    background-image: url(../pic/logo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 90px;
-    width: 166px;
-    transition: all 3s;
+  background-image: url(../pic/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 90px;
+  width: 166px;
+  transition: all 3s;
    
 }
 
@@ -145,13 +145,13 @@ h2 {
 }
 
 .nav-top {
-        width: 100%;
-        min-height: 50px;
-        background-color: #252a30;
-        color: #F0F0F0;
-        padding-top: 10px;
-        font-size: 28px;
-        font-weight: bold;
+  width: 100%;
+  min-height: 50px;
+  background-color: #252a30;
+  color: #F0F0F0;
+  padding-top: 10px;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 .nav-top:hover {
@@ -176,7 +176,8 @@ h2 {
 }
 
 .phone:hover {
-  transition: 0.5s;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
   color: #ff0000;
 }
 
@@ -675,16 +676,10 @@ h2 {
    
     */ 
 .fit {
-     overflow: hidden;
-     object-fit: cover;
-     width: 100%;
-   }
-
-   
-   
-
-
-
+  overflow: hidden;
+  object-fit: cover;
+  width: 100%;
+}
 
 
 .payment-1 {
@@ -810,7 +805,8 @@ h2 {
 }
 
 .hover-link:hover {
-  transition: 0.5s;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
   color:#eb2428;
 }
 
