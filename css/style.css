@@ -880,28 +880,51 @@ h2 {
 { */
 
 
-/* @media(max-width: 1179px){
-{ */
+@media(max-width: 1179px) {
+.container-main{
+width: 1078px;}
+
+}
 
 
-/* @media(max-width: 1170px){
-{ */
+@media(max-width: 1170px) {
+.container-main{
+width: 1169px;}
 
 
-/* @media(max-width: 1080px){
-{ */
+}
 
 
-/* @media(max-width: 1024px){
-{ */
+@media(max-width: 1080px){
+  .container-main{
+    width: 1079px;}
+
+}
 
 
-/* @media(max-width: 1000px) {
-{ */
+@media(max-width: 1024px){
+  .container-main{
+    width: 1023px;}
 
 
-/* @media(max-width: 840px) {
-{ */
+}
+
+
+
+@media(max-width: 1000px) {
+  .container-main{
+    width: 999px;}
+
+}
+
+
+
+@media(max-width: 840px) {
+  .container-main{
+    width: 839px;}
+
+}
+
 
 
 /* @media(max-width: 836px) {
