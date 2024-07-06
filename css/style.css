@@ -155,7 +155,8 @@ h2 {
 }
 
 .nav-top:hover {
-  transition: 0.5s;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
   color: #ff0000;
 }
 
@@ -740,7 +741,8 @@ h2 {
 }
 
 .email-link:hover {
-  transition: 0.3s;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
   color:#eb2428;
 }
 
@@ -752,7 +754,8 @@ h2 {
 }
 
 .phone-footer:hover {
-  transition: .5s;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
   color: #eb2428;
 }
 
@@ -845,3 +848,107 @@ h2 {
   width: 375px;
   height: 700px;
 }
+
+
+
+
+/* media  */
+
+
+
+/* @media(max-width: 2778px){
+
+{ */
+
+
+/* @media(max-width: 2550px)
+{ */
+
+
+/* @media(max-width: 1600px){
+{ */
+
+
+/* @media(max-width: 1366px){
+{ */
+
+
+/* @media(max-width: 1284px){
+{ */
+
+/* @media(max-width: 1242px){
+{ */
+
+
+/* @media(max-width: 1242px){
+{ */
+
+
+/* @media(max-width: 1179px){
+{ */
+
+
+/* @media(max-width: 1170px){
+{ */
+
+
+/* @media(max-width: 1080px){
+{ */
+
+
+/* @media(max-width: 1024px){
+{ */
+
+
+/* @media(max-width: 1000px) {
+{ */
+
+
+/* @media(max-width: 840px) {
+{ */
+
+
+/* @media(max-width: 836px) {
+{ */
+
+
+/* @media(max-width: 828px)
+{ */
+
+
+/* @media(max-width: 768px){
+{ */
+
+
+/* @media(max-width: 750px){
+{ */
+
+
+/* @media(max-width: 600px) {
+{ */
+
+
+
+/* @media(max-width: 592px){
+{ */
+
+
+
+/* @media(max-width: 576px) {
+{ */
+
+
+/* @media(max-width: 541px){
+{ */
+
+
+/* @media(max-width: 460px) {
+{ */
+
+
+/* @media(max-width: 420px) {
+{ */
+
+
+/* @media(max-width: 360px)
+{ */
