@@ -17,7 +17,7 @@
     <script defer src="./js/js-swipper.js"></script>
 </head>
 <body>
-    <div class="container-main">
+    <div id="#top" class="container-main">
         <header>
             <div class="nav-container">
                 <nav class="nav-top">
@@ -25,10 +25,10 @@
                         <li data-aos="flip-up" data-aos-delay="200" class="nav-item">
                             <div class="logo-car"><a href="#" class="nav-top"></a></div>
                         </li>
-                        <li data-aos="flip-up" data-aos-delay="300" class="nav-item"><a href="#" class="nav-top">Зарплата</a></li>
-                        <li data-aos="flip-up" data-aos-delay="400" class="nav-item"><a href="#" class="nav-top">Условия</a></li>
-                        <li data-aos="flip-up" data-aos-delay="500" class="nav-item"><a href="#" class="nav-top">Автопарк</a></li>
-                        <li data-aos="flip-up" data-aos-delay="600" class="nav-item"><a href="#" class="nav-top">Контакты</a></li>
+                        <li data-aos="flip-up" data-aos-delay="300" class="nav-item"><a href="#zp" class="nav-top">Зарплата</a></li>
+                        <li data-aos="flip-up" data-aos-delay="400" class="nav-item"><a href="#cond-anker" class="nav-top">Условия</a></li>
+                        <li data-aos="flip-up" data-aos-delay="500" class="nav-item"><a href="#cars" class="nav-top">Автопарк</a></li>
+                        <li data-aos="flip-up" data-aos-delay="600" class="nav-item"><a href="#footer-element-1-id" class="nav-top">Контакты</a></li>
                         <li data-aos="flip-up" data-aos-delay="700" class="nav-item"><a class="phone" href="tel:79153052522">+7 915 305-25-22</a></li>
                     </ul>
                 </nav>
@@ -116,7 +116,7 @@
 
         <section class="section-4">
             <div class="conditions-icons">
-                <div class="cond-heder">
+                <div id="cond-anker" class="cond-heder">
                     <h3 data-aos="flip-up" data-aos-delay="200" class="header-icon">Условия, которых ты достоин!</h3>
                 </div>
                 <div class="wrap-cond">
@@ -165,7 +165,7 @@
         </section>
 
         <section class="section-5">
-            <div class="slider-header">
+            <div id="cars" class="slider-header">
                 <h5 data-aos="flip-up" data-aos-delay="200" class="slider-h">выбери модель из <span class="slider-h-orangh">нашего автопарка!</span></h5>
             </div>
             <div class="slider">
@@ -188,7 +188,7 @@
 
         <section class="section-6">
             <div class="address-block">
-                <div class="wrap-address-block">
+                <div id="zp" class="wrap-address-block">
                     <p data-aos="fade-right" data-aos-delay="100" class="payment-1 pb">получи выплату <span class="block-orang">сразу после первой смены!</span></p>
                     <p data-aos="fade-left" data-aos-delay="200" class="check block-orang pb">расчет ежедневно!</p>
                     <p data-aos="fade-right" data-aos-delay="300" class="address">получи консультации по телефону</p>
@@ -207,35 +207,43 @@
 
         <footer class="footer">
             <div class="footer-wrap">
-                <div class="footer-element-1">
+                <div id="footer-element-1-id" class="footer-element-1">
                     <h2 data-aos="fade-left" data-aos-delay="300" class="footer-contacts">контакты</h2>
                 </div>
                 <div class="footer-element-2">
-                    <p data-aos="fade-left" data-aos-delay="100" class="footer-address-element">Адрес:</p>
+                    <div class="innerelements">
+                        <p data-aos="fade-left" data-aos-delay="100" class="footer-address-element wheat">Адрес:</p>
 
-                    <a data-aos="fade-right" data-aos-delay="200" class="addres-link" href="https://yandex.ru/maps/-/CDCw7C-W">
-                    <p data-aos="fade-left" data-aos-delay="300" class="footer-address-element hover-link">г. Москва ул.Бурлакова 14с5</p></a>
+                        <a data-aos="fade-right" data-aos-delay="200" class="addres-link" href="https://yandex.ru/maps/-/CDCw7C-W">
+                        <p data-aos="fade-left" data-aos-delay="300" class="footer-address-element hover-link">г. Москва ул.Бурлакова 14с5</p></a>
 
-                    <p data-aos="fade-right" data-aos-delay="400" class="footer-address-element">станция метро МЦК Шоссе Энтузиастов</p>
-                    <p data-aos="fade-left" data-aos-delay="500" class="footer-address-element">станция метро Авиамоторная</p>
-                    <p data-aos="fade-right" data-aos-delay="600" class="footer-address-element">с 11-00 до 19-00</p>
-                    <p data-aos="fade-left" data-aos-delay="700" class="footer-address-element">Email:</p>
-                    <p data-aos="fade-right" data-aos-delay="500" ><a href="mailto:Misterbambulo1986@mail.ru" class="email-link">Misterbambulo1986@mail.ru</a></p>
-                    <p data-aos="fade-left" data-aos-delay="900" class="footer-address-element">Номер телефона:<br>
-                    <a data-aos="fade-right" data-aos-delay="550" href="tel:+79153052522" class="phone-footer">+7 915 305-25-22</a></p>
-                    <p data-aos="fade-left" data-aos-delay="1100" class="footer-address-element">Реквизиты:</p>
-                    <p data-aos="fade-right" data-aos-delay="1200" class="footer-address-element">ИНН 7726699254</p>
-                    <p data-aos="fade-left" data-aos-delay="1300" class="footer-address-element">КПП 503601001</p>
-                    <p data-aos="fade-right" data-aos-delay="1400" class="footer-address-element">Р/с 40702810802160000266</p>
+                        <p data-aos="fade-right" data-aos-delay="400" class="footer-address-element">станция метро МЦК Шоссе Энтузиастов</p>
+                        <p data-aos="fade-left" data-aos-delay="500" class="footer-address-element ">станция метро Авиамоторная</p>
+                        <p data-aos="fade-right" data-aos-delay="600" class="footer-address-element wheat">Время работы:</p>
+                        <p data-aos="fade-left" data-aos-delay="700" class="footer-address-element">с 11-00 до 19-00</p>
+                        
+                        <p data-aos="fade-right" data-aos-delay="800" class="footer-address-element wheat">Реквизиты:</p>
+                        <p data-aos="fade-left" data-aos-delay="900" class="footer-address-element">ИНН 7726699254</p>
+                        <p data-aos="fade-right" data-aos-delay="1000" class="footer-address-element ">КПП 503601001</p>
+                        <p data-aos="fade-left" data-aos-delay="1100" class="footer-address-element">Р/с 40702810802160000266</p>
+                    </div>                
                 </div>
-
                 <div class="footer-element-3">                        
-                    <a data-aos="fade-right" data-aos-delay="600" href="tel:+79153052522" class="phone-footer">+7 915 305-25-22</a>
+                    <p data-aos="fade-left" data-aos-delay="500" class="footer-address-element">Email:</p>
+                    <p data-aos="fade-right" data-aos-delay="700" ><a href="mailto:Misterbambulo1986@mail.ru" class="email-link">Misterbambulo1986@mail.ru</a></p>
+                    <p data-aos="fade-left" data-aos-delay="900" class="footer-address-element">Номер телефона:</p>
+                    <p data-aos="fade-right" data-aos-delay="1100" ><a href="tel:+79153052522" class="phone-footer">+7 915 305-25-22</a></p>
                 </div>
             </div>
             <div class="footer-chess"></div>
         </footer>
-
+        <div class="up-button">
+            <a href="#top" class="up-link">
+              <img src="./pic/up.png" alt="up" class="up-img">
+            </a>
+          </div>
     </div>
+
+   
 </body>
 </html>

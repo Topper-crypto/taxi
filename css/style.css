@@ -10,6 +10,23 @@
 
   }
   
+  .up-button {
+    position: fixed;
+    bottom: 200px;
+    right: 500px;
+    width: 15px;
+    color:#fdc40f;
+    cursor: pointer;
+    opacity: 0.2;
+    z-index: 9000;
+  }
+  
+  .up-button:hover {
+    -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+    opacity: 1;
+  } 
+  
 
   .roboto-thin {
     font-family: "Roboto", sans-serif;
@@ -187,7 +204,7 @@ h2 {
     background-repeat: no-repeat;
     background-color: black;
     background-size:  cover;
-    width: 1200px;
+    width: 100%;
     min-height: 540px;
     display: flex;
     justify-content: flex-end;
@@ -575,9 +592,10 @@ h2 {
 }
 
 .cond-text {
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 400;
   color: #fdc40f;
+  text-transform: uppercase;
   padding: 0;
 }
 
@@ -722,15 +740,16 @@ h2 {
   font-weight: bold;
   color: #eb2428;
   text-transform: uppercase;
+  padding-left: 10px;
 }
 
 .footer-address-element {
-  font-size:33px;
+  font-size:25px;
   color: #F0F0F0;
 }
 
 .email-link {
-  font-size:42px;
+  font-size:28px;
   font-weight: bold;
   color: #fdc40f;
 }
@@ -743,7 +762,7 @@ h2 {
 
 
 .phone-footer {
-  font-size: 42px;
+  font-size: 28px;
   font-weight: bold;
   color: #fdc40f;
 }
@@ -775,14 +794,14 @@ h2 {
   width: 100%;
   min-height: 170px;
   background-color: black;
-  color: azure;
+  color: #fdc40f;
   
 }
 
 .slider {
   width: 100%;
-  height: 800px;
-  background-image: url(../pic/chess_big.png);
+  height: 700px;
+  background-image: url(../pic/chess_back.png);
   background-repeat: no-repeat;
 
 }
@@ -800,9 +819,9 @@ h2 {
 
 }
 
-.hover-link {
+/* .hover-link {
   color: wheat;
-}
+} */
 
 .hover-link:hover {
   -webkit-transition-duration: 500ms;
@@ -810,7 +829,9 @@ h2 {
   color:#eb2428;
 }
 
-
+.wheat {
+  color: #fdc40f;
+}
 
 .footer-wrap {
   display: flex;
@@ -819,6 +840,7 @@ h2 {
   flex-wrap: wrap;
   background-image: url(../pic/chess_big.png);
   background-repeat: no-repeat;
+  padding-top: 140px;
 }
 
 .footer-chess {
@@ -830,19 +852,23 @@ h2 {
 
 .footer-element-1 {
   width: 280px;
-  height: 700px;
+  height: 300px;
 }
 
 .footer-element-2 {
   width: 530px;
-  height: 700px;
+  height: 300px;
   border-left:  2px solid wheat;
- 
+  padding-left: 15px;
+}
+
+.innerelements {
+  width: 520px;
 }
 
 .footer-element-3 {
   width: 375px;
-  height: 700px;
+  height: 300px;
 }
 
 
@@ -899,7 +925,49 @@ width: 1169px;}
   .container-main{
     width: 1079px;}
 
-}
+    .info-car-block{
+      margin-right: 0;
+    }
+
+    .scale {
+      height: 225px;
+    }
+
+    .girl-header {
+      font-size: 26px;
+    }
+
+    .girl-header-red {
+      font-size: 26px;
+    }
+
+    .list-item {
+      font-size: 21px;
+    }
+
+    .footer-contacts {
+      font-size: 42px;
+    }
+
+    .footer-address-element {
+      font-size: 22px;
+    }
+
+    .footer-element-1 {
+      width: 250px;
+    }
+    
+    .footer-element-2 {
+      width: 450px;
+      
+     
+    }
+    
+    .innerelements {
+      width: 435px;
+    }
+    
+  }
 
 
 @media(max-width: 1024px){
