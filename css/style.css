@@ -144,6 +144,7 @@ body {
   background: #ff0000;
   transition: all .3s ease-in-out;
 }
+
 .upbtn:before {
   content: "";
   transition: all .3s ease-in-out;
@@ -161,11 +162,12 @@ body {
   transform: rotate(45deg);
   background: #FFF;
 }
+
 .upbtn:hover {
   height: 20px;
 }
-.upbtn:hover:before {
 
+.upbtn:hover:before {
 bottom:14px;
 }
 
