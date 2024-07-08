@@ -1037,7 +1037,7 @@ h2 {
   .container-main{
     width: 1023px;}
 
-    .nav-list {
+  .nav-list {
       justify-content: left;
       gap: 24px;
     }
@@ -1203,7 +1203,7 @@ h2 {
 
   .list-item {
     font-size: 19px;
-}
+ }
 }
 
 @media(max-width: 840px) {
@@ -1213,7 +1213,7 @@ h2 {
 
   .nav-container {
     height: 95px;
-}
+ }
 
   .nav-list {
     justify-content: left;
@@ -1427,35 +1427,123 @@ h2 {
   }
 }
 
-/* @media(max-width: 836px) {
-} */
+@media(max-width: 836px) {
+  .container-main {
+    width: 835px;
+  }
 
-/* @media(max-width: 828px) {
-} */
 
-/* @media(max-width: 768px) {
-} */
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
 
-/* @media(max-width: 750px) {
-} */
+@media(max-width: 828px) {
 
-/* @media(max-width: 600px) {
-} */
+  .container-main {
+    width: 827px;
+  }
 
-/* @media(max-width: 592px) {
-} */
 
-/* @media(max-width: 576px) {
-} */
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
 
-/* @media(max-width: 541px) {
-} */
+@media(max-width: 768px) {
 
-/* @media(max-width: 460px) {
-} */
+  .container-main {
+    width: 767px;
+  }
 
-/* @media(max-width: 420px) {
-} */
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
 
-/* @media(max-width: 360px) {
-} */
+@media(max-width: 750px) {
+  .container-main {
+    width: 749px;
+  }
+
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 600px) {
+
+  .container-main {
+    width: 599px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 592px) {
+  .container-main {
+    width: 591px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 576px) {
+
+  .container-main {
+    width: 575px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 541px) {
+  .container-main {
+    width: 540px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+
+
+}
+
+@media(max-width: 460px) {
+
+  .container-main {
+    width: 540px;
+  }
+
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 420px) {
+
+  .container-main {
+    width: 540px;
+  }
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 360px) {
+
+  .container-main {
+    width: 540px;
+  }
+  
+  .footer-wrap {
+    flex-direction: column;
+  }
+}
