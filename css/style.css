@@ -458,7 +458,8 @@ h2 {
 }
 
 .telegram {
-  background-image: url(../pic/social/social3.png);
+  /* background-image: url(../pic/social/social3.png); */
+  background-image: url(../pic/social/tl.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 55px;
@@ -467,7 +468,8 @@ h2 {
 }
 
 .whatsup {
-  background-image: url(../pic/social/social1.png);
+  /* background-image: url(../pic/social/social1.png); */
+  background-image: url(../pic/social/ws.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 55px;
